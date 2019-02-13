@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10d63b21c97139a40ada8f2eaa8ca30d, type: 3}
+  m_Name: shotgun_pipeShotgun
+  m_EditorClassIdentifier: 
+  realName: Pipe Shotgun
+  weaponName: shotgun_pipeShotgun
+  flash: {fileID: 1973047100639336, guid: 89bb83d2c4a53e141b946d918c896d4e, type: 2}
+  bullet: {fileID: 1753327223065730, guid: 769a00543fcfdcd4187336e05782dbcc, type: 2}
+  damage: 3
+  headshotDamage: 3
+  magAmmo: 6
+  totalAmmo: 36
+  bulletVelocity: 300
+  fireRate: 1
+  flashTime: 0.12
+  accuracy: 20
+  bulletLife: 0.2
+  reloadSpeed: 6
+  weaponType: shotgun
+  burstCount: 5
+  weaponTier: 0
+  currentMagAmmo: 6
+  currentTotalAmmo: 36

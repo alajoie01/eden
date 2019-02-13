@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy Bullets
+  - Player Bullets
+  - Weapon Pickups
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Enemies
+  - 
+  - 
+  - 
+  - PassThroughColliders
+  - Player Interactable Items
+  - 
+  - Player Bullets
+  - Enemy Bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3920133999
+    locked: 0
+  - name: Player
+    uniqueID: 3132057659
+    locked: 0
+  - name: Weapons
+    uniqueID: 2467919319
+    locked: 0
+  - name: PlayerArm
+    uniqueID: 113750431
+    locked: 0
+  - name: NPCs
+    uniqueID: 2318833787
+    locked: 0
+  - name: Background Text
+    uniqueID: 1490402405
+    locked: 0
+  - name: UI
+    uniqueID: 4102855935
+    locked: 0

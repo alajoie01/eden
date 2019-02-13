@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10d63b21c97139a40ada8f2eaa8ca30d, type: 3}
+  m_Name: ar_joltshot
+  m_EditorClassIdentifier: 
+  realName: Joltshot
+  weaponName: ar_joltshot
+  flash: {fileID: 1973047100639336, guid: 89bb83d2c4a53e141b946d918c896d4e, type: 2}
+  bullet: {fileID: 1219769882560404, guid: 925b827ea0f97db4680c6a45f85b364a, type: 2}
+  damage: 30
+  headshotDamage: 30
+  magAmmo: 5
+  totalAmmo: 15
+  bulletVelocity: 700
+  fireRate: 1
+  flashTime: 0.12
+  accuracy: 30
+  bulletLife: 0
+  reloadSpeed: 5
+  weaponType: ar
+  burstCount: 0
+  weaponTier: 0
+  currentMagAmmo: 5
+  currentTotalAmmo: 35
